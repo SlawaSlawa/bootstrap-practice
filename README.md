@@ -6,4 +6,4 @@
 * Аккордион
 
 ## Ссылка на GitHub Pages
-[Bootstrap test](https://slawaslawa.github.io/bootstrap-course/)
+[Bootstrap site](https://slawaslawa.github.io/bootstrap-practice/)
